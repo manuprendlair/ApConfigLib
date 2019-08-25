@@ -20,7 +20,7 @@ void setup()
 }
 ```
 
-then in you loop:
+then in your loop:
 ```
 void loop()
 {
