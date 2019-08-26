@@ -38,7 +38,7 @@ void RootHandle()
 	webServer.send(200, "text/plain", "http://www.blue-ocean-sailing.com/");
 }
 ```
-# Knoow Issue
+# Know Issue
 
 For now the reset windows where you can reset the AP SSID and Password not working (something not working as expected when EN button is pushed)
 As soon as I time I will explore this problem.
